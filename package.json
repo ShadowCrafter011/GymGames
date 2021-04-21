@@ -1,0 +1,23 @@
+{
+  "name": "gymgames",
+  "version": "1.0.0",
+  "description": "Gymgames home",
+  "main": "index.js",
+  "dependencies": {
+    "firebaseui": "^4.8.0",
+    "git": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gymgames"
+  ],
+  "author": "shadowcrafter",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "github.com/ShadowCrafter011/GymGames"
+  }
+}

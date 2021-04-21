@@ -1,0 +1,83 @@
+body {
+	background-image: url('img/background.jpg');
+	background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+.fixedbutton {
+  position: fixed;
+  top: 15px;
+  right: 15px;
+}
+
+.border_paragraph {
+	border-top: 6px solid #34ebb7;
+	padding-top: 5px;
+	margin-top: 10px;
+}
+
+.column_header_noborder {
+  padding-top: 10px; padding-bottom: 10px;
+}
+
+.column_header {
+  padding-top: 10px; padding-bottom: 10px; border-bottom: 6px solid #34ebb7;
+}
+
+.column {
+  cursor: pointer; background-color: rgba(255, 254, 238, 0.9); border: 6px solid #34ebb7; border-radius: 10px; margin-right: 40px; height: 130px;
+}
+
+.blue_hover:hover {
+	color: blue;
+}
+
+.green_hover:hover {
+  color: lime;
+}
+
+.link_to_text {
+	text-decoration: none;
+	color: black;
+}
+
+.disabled {
+	color: #828282;
+}
+.disabled:hover{
+  color: #828282;
+}
+
+.tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip{
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip:hover + .tooltiptext{visibility: visible;}
+
+.grow {transition: transform .2s ease-in-out;}
+
+.six:hover { transform: scale(1.06); }
+.three:hover { transform: scale(1.03); }
+
+.dive {
+  max-height: 75px;
+}
+
+.hide {
+  visibility: hidden;
+}

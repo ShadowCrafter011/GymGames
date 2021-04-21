@@ -1,0 +1,505 @@
+# Webalizer V2.23-05 Incremental Data - 03/24/2021 22:50:46
+2021 3 24 22 50 46
+886 451 47 48 28 22 698949108 157 40 0 0 0
+16 5 190 21 24
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+10 6 28601 7 6 6 0 0
+93 36 6033564 18 24 9 0 0
+78 8 360003 12 13 7 0 0
+705 401 692526940 16 114 18 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+3 0 5078 3 0 0
+20 0 25591 2 0 0
+24 0 46555 6 0 0
+29 0 36589 1 0 0
+38 0 66834 0 0 0
+1 0 478 0 0 0
+18 0 31325 0 0 0
+103 61 58872385 18 0 0
+107 60 110991698 11 0 0
+204 116 160953325 35 0 0
+55 36 73926964 9 0 0
+19 18 5870825 4 0 0
+24 19 37019873 8 0 0
+21 13 65925 15 0 0
+77 51 70143864 11 0 0
+25 10 36506944 5 0 0
+30 25 62096849 7 0 0
+18 17 38246229 3 0 0
+23 3 6753708 2 0 0
+38 15 37253242 8 0 0
+9 7 34827 9 0 0
+0 0 0 0 0 0
+0
+0
+0
+451
+0
+0
+0
+0
+0
+4
+0
+166
+0
+0
+197
+0
+0
+0
+0
+0
+0
+68
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/play/unity/Build/WebGL Builds.data
+0 28 0 154742219 0 0 0 0
+/play/unity/Build/WebGL Builds.wasm
+0 26 0 325227162 0 0 0 0
+/play/TemplateData/fullscreen-button.png
+1 10 0 23066 0 0 0 0
+/play/fpsmicrogame
+0 11 1 38598 0 0 0 0
+/play/TemplateData/favicon.ico
+0 5 0 77898 0 0 0 0
+/play/Build/WebGL Builds.loader.js
+0 10 3 53188 0 0 0 0
+/play/unity/TemplateData/progress-bar-full-dark.png
+1 24 0 83903 0 0 0 0
+/play/unity/TemplateData/progress-bar-empty-dark.png
+1 24 0 84255 0 0 0 0
+/play/Build/WebGL Builds.data.gz
+0 3 0 9360577 0 0 0 0
+/play/pong_source/pong_singleplayer/background.jpg
+1 5 5 13718433 0 0 0 0
+/img/background.jpg
+1 28 2 31768891 0 0 0 0
+/play/pong_source/pong_singleplayer/icon-main.ico
+0 4 0 874697 0 0 0 0
+/about
+0 2 0 7215 0 0 0 0
+/play/unity/fpsmicrogame
+0 28 0 104216 0 5 0 0
+/play/TemplateData/progress-bar-empty-dark.png
+1 10 1 28818 0 0 0 0
+/play/pong
+0 9 0 34945 0 0 0 0
+/play/pong_source/pong_singleplayer/style.css
+0 5 1 6961 0 0 0 0
+/play/unity/TemplateData/fullscreen-button.png
+1 23 0 66854 0 0 0 0
+/play/unity/TemplateData/webgl-logo.png
+1 10 0 41394 0 0 0 0
+/play/TemplateData/webgl-logo.png
+1 10 0 38513 0 0 0 0
+/play/unity/TemplateData/favicon.ico
+0 13 0 1006606 0 0 0 0
+/play/Build/WebGL Builds.framework.js
+0 8 0 365684 0 0 0 0
+/img/donate.jpg
+1 26 2 670147 0 0 0 0
+/play/unity/Build/WebGL Builds.framework.js
+0 20 0 1372237 0 0 0 0
+/img/icon-main.ico
+0 19 4 3648413 0 0 0 0
+/play/pong_source/pong_singleplayer/js/pong.singleplayer.v2.js
+0 5 1 26838 0 0 0 0
+/img/source.jpg
+1 26 2 3311735 0 0 0 0
+/play/fps_microgame_source/TemplateData/progress-bar-full-dark.png
+1 1 0 3589 0 0 0 0
+/source
+0 5 1 15064 1 0 0 0
+/play/TemplateData/unity-logo-dark.png
+1 10 0 30822 0 0 0 0
+/play/unity/Build/WebGL Builds.framework.js.gz
+0 3 1 94210 0 0 0 0
+/play/TemplateData/style.css
+0 12 1 34951 0 0 0 0
+/play/fps_microgame_source/TemplateData/style.css
+0 1 0 4066 0 0 0 0
+/
+0 50 7011295844816416329 243425 32 1 0 0
+/play/fps_microgame_source/TemplateData/progress-bar-empty-dark.png
+1 1 0 3611 0 0 0 0
+/play/Build/WebGL Builds.wasm
+0 10 0 77111672 0 0 0 0
+/play/Build/WebGL Builds.data
+0 8 0 61529254 0 0 0 0
+/play/TemplateData/progress-bar-full-dark.png
+1 10 0 28708 0 0 0 0
+/style_main.css
+0 26 0 91242 0 0 0 0
+/robots.txt
+0 14 3922188148410102574 54788 0 0 0 0
+/play/unity/Build/WebGL Builds.data.gz
+0 4 0 9307994 0 0 0 0
+/play/Build/WebGL Builds.framework.js.gz
+0 2 0 93424 0 0 0 0
+/play/unity/TemplateData/style.css
+0 27 0 98936 0 0 0 0
+/play/fps_microgame_source/TemplateData/unity-logo-dark.png
+1 1 0 4626 0 0 0 0
+/img/about.jpg
+1 26 1 1312592 0 0 0 0
+/play/unity/Build/WebGL Builds.loader.js
+0 24 0 156082 0 0 0 0
+/play/fps_microgame_source/TemplateData/fullscreen-button.png
+1 1 0 3691 0 0 0 0
+/play/unity/TemplateData/unity-logo-dark.png
+1 24 0 1601585 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+178.197.235.162
+0 21 19 38255390 1 1616615052 0 0
+/play/unity/fpsmicrogame
+40.77.167.86
+0 3 0 1446 0 0 0 0
+-
+86.119.31.29
+0 1 0 462 1 1616296987 0 0
+-
+54.36.149.25
+0 1 1 3514 0 0 0 0
+-
+23.228.109.147
+0 6 0 10191 2 1616597114 0 0
+-
+54.36.149.16
+0 1 1 5258 1 1616536575 0 0
+/
+54.36.149.88
+0 1 1 5258 1 1616411270 0 0
+/
+13.66.139.75
+0 38 0 53851 0 0 0 0
+-
+194.37.98.178
+0 193 115 160719904 1 1616587210 0 0
+/play/unity/fpsmicrogame
+171.244.21.74
+0 3 0 7614 1 1616386059 0 0
+-
+18.184.195.200
+0 3 1 6013 1 1616511665 0 0
+/
+199.244.88.132
+0 1 0 283 1 1616469056 0 0
+/
+40.77.167.50
+0 4 2 8356 0 0 0 0
+-
+54.36.148.24
+0 1 1 5258 1 1616451594 0 0
+/
+31.10.131.245
+0 203 125 254597269 6 1616622747 0 0
+/play/unity/fpsmicrogame
+5.255.231.245
+0 3 2 9555 1 1616340047 0 0
+/
+208.110.85.68
+0 1 1 5263 1 1616427196 0 0
+/
+45.152.181.226
+0 19 18 5870825 1 1616421359 0 0
+/play/pong
+54.36.148.56
+0 1 1 3514 0 0 0 0
+-
+45.125.245.147
+0 2 1 5955 1 1616626228 0 0
+/
+13.66.139.50
+0 27 0 45360 0 0 0 0
+-
+13.66.139.106
+0 22 0 42983 0 0 0 0
+-
+67.205.135.146
+0 2 1 5730 1 1616538721 0 0
+/
+54.36.148.54
+0 1 1 3514 0 0 0 0
+-
+54.36.148.91
+0 1 1 5258 1 1616320309 0 0
+/
+54.36.148.251
+0 1 1 5258 1 1616366227 0 0
+/
+193.47.169.32
+0 47 45 76099478 1 1616581538 0 0
+/play/pong
+78.129.190.104
+0 114 69 93669257 1 1616580952 0 0
+/play/fpsmicrogame
+52.172.188.82
+0 3 0 7597 1 1616512482 0 0
+-
+13.66.139.17
+0 34 0 45536 0 0 0 0
+-
+146.4.22.190
+0 10 8 33688 1 1616427907 0 0
+/source
+54.36.148.96
+0 1 1 5258 1 1616491860 0 0
+/
+54.36.148.139
+0 1 1 5283 1 1616596172 0 0
+/
+92.204.170.186
+0 2 0 924 2 1616563729 0 0
+/
+104.248.201.153
+0 3 0 7614 1 1616386060 0 0
+-
+5.45.207.79
+0 2 1 4092 1 1616340047 0 0
+/
+45.152.199.25
+0 3 3 12626 1 1616626246 0 0
+/play/pong
+13.66.139.90
+0 30 0 53296 0 0 0 0
+-
+157.55.39.34
+0 3 0 1440 0 0 0 0
+-
+13.66.139.32
+0 5 0 5645 0 0 0 0
+-
+13.66.139.33
+0 9 0 14021 0 0 0 0
+-
+173.212.219.223
+0 3 0 7597 1 1616433384 0 0
+-
+40.77.167.87
+0 4 4 19046 0 0 0 0
+-
+88.202.186.59
+0 13 1 257147 1 1616583885 0 0
+/play/fpsmicrogame
+54.189.230.128
+0 6 3 229480 1 1616533909 0 0
+/
+3.140.241.184
+0 1 0 472 1 1616415481 0 0
+/
+178.197.212.160
+0 32 26 68786329 1 1616611585 0 0
+/play/pong
+# End Of Table - sites (monthly)
+# -sites- (daily)
+178.197.235.162
+0 21 19 38255390 1 1616615052 0 0
+/play/unity/fpsmicrogame
+23.228.109.147
+0 6 0 10191 2 1616597114 0 0
+-
+13.66.139.75
+0 16 0 20574 0 0 0 0
+-
+194.37.98.178
+0 193 115 160719904 1 1616587210 0 0
+/play/unity/fpsmicrogame
+31.10.131.245
+0 203 125 254597269 6 1616622747 0 0
+/play/unity/fpsmicrogame
+45.125.245.147
+0 2 1 5955 1 1616626228 0 0
+/
+13.66.139.50
+0 10 0 17776 0 0 0 0
+-
+193.47.169.32
+0 47 45 76099478 1 1616581538 0 0
+/play/pong
+78.129.190.104
+0 114 69 93669257 1 1616580952 0 0
+/play/fpsmicrogame
+13.66.139.17
+0 13 0 16003 0 0 0 0
+-
+54.36.148.139
+0 1 1 5283 1 1616596172 0 0
+/
+92.204.170.186
+0 1 0 462 1 1616563729 0 0
+/
+45.152.199.25
+0 3 3 12626 1 1616626246 0 0
+/play/pong
+13.66.139.90
+0 30 0 53296 0 0 0 0
+-
+88.202.186.59
+0 13 1 257147 1 1616583885 0 0
+/play/fpsmicrogame
+178.197.212.160
+0 32 26 68786329 1 1616611585 0 0
+/play/pong
+# End Of Table - sites (daily)
+# -referrers- 
+http://gymgames.ch/wp-login.php
+1 2
+http://www.google.ch/url
+0 4
+https://www.gymgames.ch/
+1 10
+https://www.gymgames.ch/source
+1 1
+https://gymgames.ch/play/TemplateData/style.css
+1 50
+https://gymgames.ch/play/fps_microgame_source/TemplateData/style.css
+1 4
+http://gymgames.ch
+1 2
+https://www.gymgames.ch/about
+1 1
+https://www.google.com/
+0 1
+- (Direct Request)
+0 272
+http://www.gymgames.ch/wp-login.php
+1 2
+http://gymgames.ch/
+1 1
+https://gymgames.ch/play/pong
+1 11
+https://gymgames.ch/
+1 169
+http://gymgames.ch/robots.txt
+1 2
+http://gymgames.ch/img/icon-main.ico
+1 1
+https://www.gymgames.ch/play/unity/fpsmicrogame
+1 14
+https://gymgames.ch/play/unity/TemplateData/style.css
+1 93
+https://www.gymgames.ch/play/pong
+1 4
+https://gymgames.ch/wp-login.php
+1 2
+https://gymgames.ch/style_main.css
+1 23
+https://gymgames.ch/play/unity/fpsmicrogame
+1 143
+https://gymgames.ch/source
+1 1
+http://www.google.com/
+0 6
+https://www.gymgames.ch/wp-login.php
+1 2
+https://gymgames.ch/play/fpsmicrogame
+1 60
+https://gymgames.ch/play/pong_source/pong_singleplayer/style.css
+1 4
+http://www.google.com.hk
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 
+0 21
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15
+0 19
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 179
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; .NET CLR 0.74.47239; .NET CLR 2.0.50727; .NET CLR 3.5.30729; 
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.7
+0 27
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+0 5
+Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+0 10
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; .NET CLR 0.74.47240; .NET CLR 2.0.50727; .NET CLR 3.5.30729; 
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+0 543
+Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Mobile/15E14
+0 32
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2896.3 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 12
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
+0 2
+python-requests/2.18.4
+0 1
+# End Of Table - agents
+# -search strings- 
+http://gymgames.ch/
+1
+https://gymgames.ch/
+1
+https%3a%2f%2fgymgames.ch%2f
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
